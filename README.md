@@ -2,7 +2,7 @@
 
 A new Flutter application to complete Belajar Membuat Aplikasi Flutter Untuk Pemula at Dicoding. At the same moment, it's also a tribute for our great litterateur, Pram.
 
-![Capture 3](https://user-images.githubusercontent.com/55497456/91276462-c9d7ac00-e7ab-11ea-8b0a-05f7e2fe402d.JPG)
+<img src="https://user-images.githubusercontent.com/55497456/91276462-c9d7ac00-e7ab-11ea-8b0a-05f7e2fe402d.JPG" width=500/>&nbsp;
 
 For the details, check this link: https://www.dicoding.com/certificates/OQLZ9WYNDZ5D
 
